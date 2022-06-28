@@ -1,1 +1,5 @@
-package strutilfunc GetNewStr(str string) string {	return str + ".... demo test"}
+package strutil
+
+func GetNewStr(str string) string {
+	return str + ".... demo test"
+}
